@@ -4,3 +4,4 @@ class Sample{
 	 System.out.println("Testing auto build");   
     }  
 }  
+https://stackoverflow.com/questions/12254076/how-do-i-show-my-global-git-configuration
